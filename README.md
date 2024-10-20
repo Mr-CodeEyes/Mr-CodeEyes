@@ -1,4 +1,5 @@
 
+![githubprof](https://github.com/user-attachments/assets/49d26fc8-152b-4caf-8d35-56079fae34c4)
 
 
 <h1 align="center">Hi there!</h1>
@@ -18,4 +19,3 @@
 
 <p>&nbsp;<img align="center" style="background-color:black" src="https://github-readme-stats.vercel.app/api?username=mr-codeeyes&show_icons=true&locale=en" alt="mr-codeeyes" /></p>
 
-![githubprof](https://github.com/user-attachments/assets/49d26fc8-152b-4caf-8d35-56079fae34c4)
