@@ -1,7 +1,7 @@
 ![githubprof](https://github.com/user-attachments/assets/49d26fc8-152b-4caf-8d35-56079fae34c4)
 
 
-<h1 align="center">CodeEyes</h1>
+<h1 align="center">Hi there!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-codeeyes&label=Profile%20views&color=0e75b6&style=flat" alt="mr-codeeyes" /> </p>
 
