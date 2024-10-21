@@ -16,6 +16,6 @@
 
 
 
-<a href="https://t.me/Exin_Mood">
+<a href="https://web.telegram.org/a/#7051857497">
 <img border="0" alt="create-by-codeeyes" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
 </a>
